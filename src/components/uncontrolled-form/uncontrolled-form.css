@@ -1,0 +1,16 @@
+.uncontrolled-form{
+    text-align: center;
+}
+
+.uncontrolled-form h1{
+    color: purple;
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid burlywood;
+}
+
+::placeholder{
+    text-align: center;
+}
